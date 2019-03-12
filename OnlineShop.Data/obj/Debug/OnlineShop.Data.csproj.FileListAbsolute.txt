@@ -1,0 +1,6 @@
+D:\DA_CN\OnlineShop\OnlineShop.Data\bin\Debug\OnlineShop.Data.dll
+D:\DA_CN\OnlineShop\OnlineShop.Data\bin\Debug\OnlineShop.Data.pdb
+D:\DA_CN\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.csprojAssemblyReference.cache
+D:\DA_CN\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.csproj.CoreCompileInputs.cache
+D:\DA_CN\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.dll
+D:\DA_CN\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.pdb
