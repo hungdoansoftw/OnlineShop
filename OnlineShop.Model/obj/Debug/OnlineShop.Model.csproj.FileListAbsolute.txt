@@ -4,3 +4,9 @@ D:\DA_CN\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.csprojAssemblyRe
 D:\DA_CN\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.csproj.CoreCompileInputs.cache
 D:\DA_CN\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.dll
 D:\DA_CN\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.pdb
+D:\DA_CN\OnlineShop\OnlineShop.Model\bin\Debug\OnlineShop.Model.dll.config
+D:\DA_CN\OnlineShop\OnlineShop.Model\bin\Debug\EntityFramework.dll
+D:\DA_CN\OnlineShop\OnlineShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\DA_CN\OnlineShop\OnlineShop.Model\bin\Debug\EntityFramework.xml
+D:\DA_CN\OnlineShop\OnlineShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\DA_CN\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.csproj.CopyComplete

@@ -1,8 +1,7 @@
-D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\csc.exe
-D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\OnlineShop.Web.dll.config
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\OnlineShop.Web.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\OnlineShop.Web.pdb
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\csc.exe
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\csc.exe.config
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\csc.rsp
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\csi.exe
@@ -10,6 +9,7 @@ D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\csi.rsp
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\Microsoft.CSharp.Core.targets
@@ -28,10 +28,16 @@ D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\vbc.rsp
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\VBCSCompiler.exe
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\roslyn\VBCSCompiler.exe.config
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\Antlr3.Runtime.dll
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\EntityFramework.dll
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\EntityFramework.SqlServer.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\Microsoft.Web.Infrastructure.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\Newtonsoft.Json.dll
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\OnlineShop.Common.dll
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\OnlineShop.Data.dll
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\OnlineShop.Model.dll
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\OnlineShop.Service.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\System.Diagnostics.DiagnosticSource.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\System.Net.Http.Formatting.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\System.Web.Helpers.dll
@@ -44,6 +50,14 @@ D:\DA_CN\OnlineShop\OnlineShop.Web\bin\System.Web.WebPages.Deployment.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\System.Web.WebPages.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\System.Web.WebPages.Razor.dll
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\WebGrease.dll
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\OnlineShop.Common.pdb
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\OnlineShop.Data.pdb
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\OnlineShop.Data.dll.config
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\OnlineShop.Model.pdb
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\OnlineShop.Model.dll.config
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\OnlineShop.Service.pdb
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\EntityFramework.xml
+D:\DA_CN\OnlineShop\OnlineShop.Web\bin\EntityFramework.SqlServer.xml
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\System.Web.Helpers.xml
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\System.Web.Mvc.xml
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\System.Web.Optimization.xml
@@ -59,6 +73,7 @@ D:\DA_CN\OnlineShop\OnlineShop.Web\bin\System.Web.Http.WebHost.xml
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\System.Diagnostics.DiagnosticSource.xml
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 D:\DA_CN\OnlineShop\OnlineShop.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DA_CN\OnlineShop\OnlineShop.Web\obj\Debug\OnlineShop.Web.csprojAssemblyReference.cache
 D:\DA_CN\OnlineShop\OnlineShop.Web\obj\Debug\OnlineShop.Web.csproj.CoreCompileInputs.cache
 D:\DA_CN\OnlineShop\OnlineShop.Web\obj\Debug\OnlineShop.Web.csproj.CopyComplete
 D:\DA_CN\OnlineShop\OnlineShop.Web\obj\Debug\OnlineShop.Web.dll

@@ -3,3 +3,4 @@ D:\DA_CN\OnlineShop\OnlineShop.Common\bin\Debug\OnlineShop.Common.pdb
 D:\DA_CN\OnlineShop\OnlineShop.Common\obj\Debug\OnlineShop.Common.csproj.CoreCompileInputs.cache
 D:\DA_CN\OnlineShop\OnlineShop.Common\obj\Debug\OnlineShop.Common.dll
 D:\DA_CN\OnlineShop\OnlineShop.Common\obj\Debug\OnlineShop.Common.pdb
+D:\DA_CN\OnlineShop\OnlineShop.Common\obj\Debug\OnlineShop.Common.csprojAssemblyReference.cache
