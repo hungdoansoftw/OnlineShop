@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OnlineShop.Model.Abstract;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 namespace OnlineShop.Model.Models
 {
     [Table("Products")]
-    public class Product
+    public class Product : Auditable
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
@@ -56,5 +57,6 @@ namespace OnlineShop.Model.Models
         public virtual ProductCategory ProductCategory { set; get; }
 
         public virtual IEnumerable<ProductTag> ProductTags { set; get; }
+     
     }
 }
